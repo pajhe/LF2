@@ -20,6 +20,8 @@ beliebige Erweiterungsoptionen sind möglich.
 Anwendung soll über die Kommandozeile die Fahrtkosten für einen oder mehrere Roller, auf Basis der Fahrtzeit oder dem Fahrtweg berechnen.
 
 spezielle Anforderungen:
+  user input
   Verwendung von Variablen
   Verwendung von selbstgeschriebener Funktion
+  evtl. if-Abfrage
   simpel halten
